@@ -1,6 +1,7 @@
 # Langton-s-Ant
 
 This program simulates Langton's Ant. The Langton's Ant simulation can be considered as a cellular automation, a model that has simple rules governing its replication or destruction.
+
 Langton’s Ant Rule
 
 The rule of Langton’s Ant is very simple: the ant is placed onto the board that is filled with white spaces, and starts moving forward. For each step forward, the Langton’s ant will follow 2 rules:
